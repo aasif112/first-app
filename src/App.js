@@ -16,7 +16,7 @@ function App() {
         <h3>A GitHub work-flow is setup that starts on: push</h3>
         </li>
         <li>
-        <h3>Push: 28-07-2024</h3>
+        <h3>Rechaking github-workflow is working </h3>
         </li>
       </ul>
     </div>
